@@ -13,6 +13,8 @@ Download and install Matlab from: https://www.mathworks.com/products/matlab.html
 
 The MyPersonality Dataset can be downlaoded from: http://mypersonality.org/wiki/doku.php?id=download_databases
 
+Clone this repository: `> sudo git clone https://github.com/tomaszkolonko/WebAnalysisSeminar.git`
+
 ## Configuration
 
 Open the R-scripts inside R or RStudio and you should be able to run them immediately.
