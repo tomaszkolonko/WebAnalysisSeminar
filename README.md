@@ -8,6 +8,7 @@ R is used for the the correlation and multiple linear regression part. Cleaning 
 Matlab is used for the machine learning part.
 
 Download and install R from: https://cran.r-project.org/
+
 Download and install Matlab from: https://www.mathworks.com/products/matlab.html
 
 The MyPersonality Dataset can be downlaoded from: http://mypersonality.org/wiki/doku.php?id=download_databases
