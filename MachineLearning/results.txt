@@ -1,0 +1,19 @@
+Predicting Extrovertion from network properties:
+
+Median linear regression cost per sample: 0.676667
+Median SVM Accuracy on test set using RBF kernel: 65.831258
+
+AGR from network:
+
+Median linear regression cost per sample: 0.475980
+Median SVM Accuracy on test set using RBF kernel: 56.097561
+
+NETWORKSIZE ~ sEXT + sCON:
+Median linear regression cost per sample: 86324.685156
+Not very successful, since there is a big variation in the possible network size values.
+
+DENSITY ~ sEXT + sCON + sOPN:
+no meaningful result from which we could draw a conclusion
+
+nBrokerage ~Big Five:
+pretty good results, but not very meaningful. The network properties have a very high variance and a high value range. Also, we cannot apply SVM to that.
